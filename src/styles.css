@@ -260,8 +260,5 @@ font-size: 18px;
     footer ul{
       font-size: 12px;
     }
-    .footer.grid.grid-3-columns-with-first-narrow {
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-gap: 10px;
-    }
+   
 }
